@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\bin\Debug\matematikselformuller.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\bin\Debug\matematikselformuller.exe
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\bin\Debug\matematikselformuller.pdb
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\obj\Debug\matematikselformuller.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\obj\Debug\matematikselformuller.Form1.resources
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\obj\Debug\matematikselformuller.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\obj\Debug\matematikselformuller.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\obj\Debug\matematikselformuller.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\obj\Debug\matematikselformuller.exe
+D:\Belgeler\Visual Studio 2019\Projects\matematikselformuller\matematikselformuller\obj\Debug\matematikselformuller.pdb
